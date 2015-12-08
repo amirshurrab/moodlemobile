@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.int-comp.moodlemobile"
         versionCode = "391"
         version   = "1.15">
-    <name>ICT Moodle Mobile 01</name>
+    <name>ICT mLearning 02</name>
 
     <description>
-        ICT Moodle Mobile app 01
+        ICT mLearning 02
     </description>
 
     <author href="http://moodle.com" email="juan@moodle.com">
